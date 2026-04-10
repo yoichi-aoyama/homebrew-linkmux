@@ -1,6 +1,6 @@
 cask "linkmux" do
-  version "0.0.27"
-  sha256 "7f1536b0db89af50e8bc87efe555d859aaed430840406ea2bd57d9868585e7cf"
+  version "0.0.29"
+  sha256 "39307f42df7db4ac7b19b49ac23a4a87d9625a59812b1b888f95b95aed92526c"
 
   url "https://github.com/yoichi-aoyama/Linkmux-public/releases/download/v#{version}/Linkmux.zip"
   name "Linkmux"
